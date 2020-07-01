@@ -5,4 +5,4 @@ pass
 def multiply(x,y):
 return
 def divide(x,y):
-pass
+return x/y
